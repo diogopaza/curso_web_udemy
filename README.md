@@ -1,3 +1,5 @@
+<h1>Curso Desenvolvimento WEB</h1>
+
 tag label = ao nomear o atributo for do label com o mesmo id
 do input ele automaticamente marca o input, bom em dispositivos moveis 
 
